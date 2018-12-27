@@ -1,0 +1,106 @@
+aside {float:left;
+	width:250px;
+	height:auto;
+	text-align:center;
+  border-bottom: 5px solid white;
+}
+
+.block-1 {background:#ff8080;
+	color:#404040;
+	padding:25px;
+	height:250px;
+	font-size:25px;
+}
+
+.block-2{background:#ebc6eb;
+	color:grey;
+	padding:20px;
+	height:250px;
+	font-size:23px;
+}
+
+.block-3{background:#99ffbb;
+	color:#404040;
+	padding:25px;
+	height:175px;
+	font-size:25px;
+}
+
+.block-4{background:#ecc6d9;
+	color:#fff;
+	padding:18px;
+	height:200px;
+	font-size:25;
+}
+
+.block-42 {
+    background:#ecc6d9;
+  	color:#fff;
+  	padding:18px;
+  	height:200px;
+  	font-size:28px;
+}
+
+.block-5{background:#b3b3ff;
+	color:#fff;
+	padding:18px;
+	height:200px;
+	font-size:25px;
+}
+
+.block-marg{margin-top:50px;
+	font-size:27px;
+}
+
+.block-marg2{margin-top:60px;
+	font-size:30px;
+}
+
+.spicy-rice{
+	font-family: 'Spicy Rice', cursive;
+}
+.indie-flower{
+	font-family: 'Indie Flower', cursive;
+}
+.bitter{
+	font-family: 'Bitter', serif;
+}
+.pacifico{
+	font-family: 'Pacifico', cursive;
+}
+.dancing{
+	font-family: 'Dancing Script', cursive;
+}
+.amatic{
+	font-family: 'Amatic SC', cursive;
+}
+
+.bigger{
+	text-transform:uppercase;
+	color:#fff;
+}
+
+.wordspace{
+	letter-spacing:5px;
+	color:#ff0066
+}
+
+.bite{
+	text-transform:uppercase;
+	color:grey;
+	letter-spacing:5px;
+}
+
+.lastblock{
+	font-variant:small-caps;
+	font-size:23px;
+	color:hotpink;
+	word-spacing:10px;
+}
+.fontsize{
+	font-size:21px;
+}
+
+.fontsize2{
+	font-size:27px;
+}
